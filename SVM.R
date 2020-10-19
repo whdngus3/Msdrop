@@ -1,4 +1,4 @@
-#First Code
+#First Code(fixed 
 
 
 library(readxl)
@@ -94,7 +94,7 @@ mean(ac[2:6])
 
 
 #######################################
-#Second Code
+#Second Code (All case)
 
 library(readxl)
 library(caret)
